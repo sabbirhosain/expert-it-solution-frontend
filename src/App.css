@@ -1,0 +1,36 @@
+/* ====== */
+.dashboard_card {
+    border-bottom: 5px solid orangered;
+}
+
+.card_icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: orangered;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+}
+
+/* ====== Modal Style ============ */
+.modal-header {
+    border-top: 5px solid orangered;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+/* ====== Table Heading Style ======= */
+.hudJpJ,
+.caNzNe,
+.chYGqH {
+    color: #223039 !important;
+    font-size: 16px !important;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: -0.30000001192092896px;
+    text-align: left;
+    background-color: #D7DFE9 !important;
+}
